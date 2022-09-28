@@ -18,12 +18,12 @@
 
         &.Approved {
             color: green;
-            background-color: rgba(0, 128, 0, 0.153);
+            background-color: rgba(0, 128, 0, 0.05);
         }
 
         &.Pending {
             color: goldenrod;
-            background-color: rgba(218, 165, 32, 0.108);
+            background-color: rgba(218, 165, 32, 0.05);
         }
     }
 }
