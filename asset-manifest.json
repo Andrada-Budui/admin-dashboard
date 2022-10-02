@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/admin-dashboard/static/css/main.2a23f739.css",
+    "main.js": "/admin-dashboard/static/js/main.2d88792c.js",
+    "static/media/pexels-andrea-piacquadio-3764579.jpg": "/admin-dashboard/static/media/pexels-andrea-piacquadio-3764579.5101d9ea16ae12bbedfd.jpg",
+    "static/media/pexels-luizclas-595747.jpg": "/admin-dashboard/static/media/pexels-luizclas-595747.b885bc957a7b8825d0d5.jpg",
+    "static/media/no-image.jpg": "/admin-dashboard/static/media/no-image.161fcce85c949fe3d7ee.jpg",
+    "index.html": "/admin-dashboard/index.html",
+    "main.2a23f739.css.map": "/admin-dashboard/static/css/main.2a23f739.css.map",
+    "main.2d88792c.js.map": "/admin-dashboard/static/js/main.2d88792c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a23f739.css",
+    "static/js/main.2d88792c.js"
+  ]
+}
